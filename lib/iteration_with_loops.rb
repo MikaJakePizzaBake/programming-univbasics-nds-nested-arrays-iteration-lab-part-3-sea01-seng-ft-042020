@@ -15,3 +15,4 @@ end
 %w[new_array]
 row_index += 1
 end
+end
